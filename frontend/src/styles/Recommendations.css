@@ -1,0 +1,15 @@
+.recommendation-sources {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 8px 0;
+}
+
+.source-chip {
+    padding: 4px 12px;
+    border-radius: 16px;
+    font-size: 12px;
+    color: white;
+    font-weight: 500;
+    display: inline-block;
+} 
