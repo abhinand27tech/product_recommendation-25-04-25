@@ -1,4 +1,4 @@
-# Supermarket Recommendation System
+# Supermarket Recommendation System after setting initial age and gender based recommendation
 
 A machine learning-based recommendation system for supermarkets that provides personalized product recommendations to customers.
 
